@@ -1,2 +1,2 @@
 # introduction-to-python
-Basic things you nedd to get started as a python programmer
+Basic things you need to get started as a python programmer
